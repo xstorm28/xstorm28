@@ -35,7 +35,7 @@
 
 - [💼 LinkedIn](https://www.linkedin.com/in/alejandro-sierra-islas28/)  
 - [📷 Instagram](@alegsierra)  
-- [🌐 Portafolio]()  
+- [🌐 Portafolio](https://alejandroportofolio.netlify.app/)  
 
 ¡Gracias por visitar! 💡 Siempre estoy abierto a colaborar en proyectos interesantes o simplemente compartir ideas.
 
